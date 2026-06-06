@@ -43,17 +43,19 @@
 [Хто має відчути: це про мене?]
 ```
 
-Опишіть:
-
-- професійний контекст;
-- біль;
-- страх;
-- типову помилку;
-- бажану зміну поведінки.
+Опишіть професійний контекст, біль, страх, типову помилку і бажану зміну поведінки.
 
 ---
 
-## 5. TikTok Package
+## 5. Psychological Framing
+
+```text
+[Психологічна рамка: яка ілюзія керує поведінкою аудиторії, який страх її тримає, яку соціальну систему вона недооцінює.]
+```
+
+---
+
+## 6. TikTok Package
 
 ### Hook
 
@@ -84,15 +86,15 @@
 [Короткий підпис: теза + питання або заклик зберегти.]
 ```
 
-### Image Prompt
+### TikTok Visual Prompt
 
 ```text
-[English prompt for TikTok cover. Cinematic, realistic, psychological tension, no text inside image, no logos.]
+[Scene: one urgent vertical moment that can be understood in one second]. [Character: who is visible, what status they have, what they feel]. [Emotional tension]. [Symbolic details tied directly to the campaign topic]. [Environment]. [Lighting]. [Camera style: close-up / low angle / 35mm / shallow depth]. [Psychological atmosphere]. [Storytelling implication]. Vertical 9:16 composition for TikTok cover, strong focal point, no text inside image, no logos.
 ```
 
 ---
 
-## 6. YouTube Package
+## 7. YouTube Package
 
 ### Shorts Script
 
@@ -116,15 +118,15 @@ CTA: [зберегти / прокоментувати / перевірити с�
 [2-5 слів. Напруга і ясність.]
 ```
 
-### Image Prompt
+### YouTube Thumbnail Prompt
 
 ```text
-[English prompt for YouTube thumbnail. Cinematic, realistic, dramatic lighting, no text inside image, no logos.]
+[Scene: a wide conflict image with clear before/after tension]. [Character: central subject and opposing force or system]. [Emotional tension]. [Symbolic details]. [Environment]. [Lighting with strong contrast]. [Camera style: 16:9, cinematic wide frame, readable silhouettes]. [Psychological atmosphere]. [Storytelling implication]. 16:9 YouTube thumbnail composition, clear subject separation, no text inside image, no logos.
 ```
 
 ---
 
-## 7. Facebook Package
+## 8. Facebook Package
 
 ### Long Post
 
@@ -138,10 +140,10 @@ CTA: [зберегти / прокоментувати / перевірити с�
 [Коротка версія до 600 знаків.]
 ```
 
-### Image Concept
+### Facebook Visual Prompt
 
 ```text
-[Що має бути на зображенні і яку емоцію воно має створювати.]
+[Scene: slower, richer moment that supports a long post]. [Character]. [Emotional tension]. [Symbolic details]. [Environment]. [Lighting]. [Camera style: editorial 4:5, enough space for atmosphere]. [Psychological atmosphere]. [Storytelling elements]. 4:5 Facebook feed composition, no text inside image, no logos.
 ```
 
 ### Discussion Question
@@ -152,7 +154,7 @@ CTA: [зберегти / прокоментувати / перевірити с�
 
 ---
 
-## 8. Instagram Package
+## 9. Instagram Package
 
 ### Carousel Structure
 
@@ -179,15 +181,15 @@ Slide 8: [CTA]
 [Фраза для story, яка веде до поста або відповіді в DM.]
 ```
 
-### Image Prompt
+### Instagram Visual Prompt
 
 ```text
-[English prompt for Instagram carousel cover. Cinematic, realistic, no text inside image, no logos.]
+[Scene: symbolic carousel cover with one dominant visual metaphor]. [Character]. [Emotional tension]. [Symbolic details that reveal the campaign topic on second glance]. [Environment]. [Lighting]. [Camera style: 4:5 or 1:1, clean composition, strong negative space for later design overlay outside generated image]. [Psychological atmosphere]. [Storytelling implication]. No text inside image. No logos.
 ```
 
 ---
 
-## 9. Quotes Package
+## 10. Quotes Package
 
 Створіть 10 коротких гострих цитат.
 
@@ -206,7 +208,7 @@ Slide 8: [CTA]
 
 ---
 
-## 10. Comments Package
+## 11. Comments Package
 
 ### 5 Engagement Comments
 
@@ -230,28 +232,30 @@ Slide 8: [CTA]
 
 ---
 
-## 11. Visual Package
+## 12. Visual Package
 
-### 4:5 Image Prompt
+Кожен prompt має бути сценою, а не набором прикметників. Заборонено починати з порожнього "cinematic realistic image". Починайте з конкретної дії, персонажа і конфлікту.
+
+### TikTok Visual Prompt 9:16
 
 ```text
-[English prompt. Facebook / Instagram feed. Cinematic, realistic, dramatic lighting, no text, no logos.]
+[Complete scene-based vertical prompt. Include scene, character, emotional tension, symbolic details, environment, lighting, camera style, psychological atmosphere, storytelling elements, platform-specific composition. No text inside image. No logos.]
 ```
 
-### 9:16 Image Prompt
+### Instagram Visual Prompt 4:5 / 1:1
 
 ```text
-[English prompt. TikTok / Reels / Shorts cover. Cinematic, realistic, dramatic lighting, no text, no logos.]
+[Complete scene-based carousel/feed prompt. Include scene, character, emotional tension, symbolic details, environment, lighting, camera style, psychological atmosphere, storytelling elements, platform-specific composition. No text inside image. No logos.]
 ```
 
-### 1:1 Image Prompt
+### Facebook Visual Prompt 4:5
 
 ```text
-[English prompt. Square post / carousel cover. Cinematic, realistic, dramatic lighting, no text, no logos.]
+[Complete scene-based editorial prompt. Include scene, character, emotional tension, symbolic details, environment, lighting, camera style, psychological atmosphere, storytelling elements, platform-specific composition. No text inside image. No logos.]
 ```
 
-### YouTube Thumbnail Prompt
+### YouTube Thumbnail Prompt 16:9
 
 ```text
-[English prompt. Wide cinematic thumbnail. High contrast, psychological tension, no text inside image, no logos.]
+[Complete scene-based thumbnail prompt. Include scene, character, emotional tension, symbolic details, environment, lighting, camera style, psychological atmosphere, storytelling elements, platform-specific composition. No text inside image. No logos.]
 ```
