@@ -18,7 +18,7 @@
 
 Ви думаєте: "Мене ігнорують, бо мене не поважають".
 
-Система думає інакше: "Це повідомлення потребує зусиль. Відкласти".
+Система думає: "Це повідомлення потребує зусиль. Відкласти".
 
 Парадокс: що ввічливіше й туманніше ви пишете, то легше вас поховати в мовчанні.
 
@@ -36,7 +36,17 @@
 
 ---
 
-## 5. TikTok Package
+## 5. Psychological Framing
+
+Нечітке повідомлення створює когнітивний борг.
+
+Адресат має згадати контекст, здогадатися про потребу, визначити пріоритет і вирішити, що робити. Тобто ви не надіслали повідомлення. Ви делегували мікрозадачу без попередження.
+
+Соціальна система реагує просто: усе нечітке програє всьому терміновому.
+
+---
+
+## 6. TikTok Package
 
 ### Hook
 
@@ -44,50 +54,19 @@
 
 ### Short Video Script
 
-**Кадр 1:**
-Вас ігнорують не тому, що ви нікому не потрібні.
+**Кадр 1:** Вас ігнорують не тому, що ви нікому не потрібні. Гірше. Ваш текст змушує людину думати замість вас.
 
-Гірше.
+**Кадр 2:** "Доброго дня, хотіла б уточнити щодо нашого питання". Якого питання? Що саме треба? До коли? Що мені робити?
 
-Ваш текст змушує людину думати замість вас.
+**Кадр 3:** У людей не бракує доброти. У людей бракує уваги. А увага сьогодні дорожча за ввічливі абзаци.
 
-**Кадр 2:**
-"Доброго дня, хотіла б уточнити щодо нашого питання".
+**Кадр 4:** Формула сильного повідомлення: контекст, конкретне питання, дедлайн, наступний крок.
 
-Якого питання?
-Що саме треба?
-До коли?
-Що мені робити?
+**Кадр 5:** "Надсилаю фінальну версію договору. Потрібне підтвердження до 17:00, щоб завтра подати документи. Чи погоджуєте текст?"
 
-Вітаю. Ви створили міні-розслідування без зарплати.
+**Кадр 6:** Ясність - це не сухість. Це влада без крику.
 
-**Кадр 3:**
-У людей не бракує доброти.
-
-У людей бракує уваги.
-
-А увага сьогодні дорожча за ввічливі абзаци.
-
-**Кадр 4:**
-Формула сильного повідомлення:
-
-1. Контекст.
-2. Конкретне питання.
-3. Дедлайн.
-4. Наступний крок.
-
-**Кадр 5:**
-"Надсилаю фінальну версію договору. Потрібне підтвердження до 17:00, щоб завтра подати документи. Чи погоджуєте текст?"
-
-Ось. Людині не треба бути детективом.
-
-**Кадр 6:**
-Ясність - це не сухість.
-
-Це влада без крику.
-
-**CTA:**
-Перечитайте своє останнє важливе повідомлення. Там є дія для адресата?
+**CTA:** Перечитайте своє останнє важливе повідомлення. Там є дія для адресата?
 
 ### Cover Text
 
@@ -97,58 +76,31 @@
 
 Нечітке повідомлення - це чужа робота в красивій обгортці. Перевірте: у вашому тексті є контекст, питання, дедлайн і наступний крок?
 
-### Image Prompt
+### TikTok Visual Prompt
 
 ```text
-Cinematic realistic vertical image, late night office, smartphone glowing with unread messages but no readable text, legal documents and laptop on desk, tired professional looking away from the phone, psychological tension, attention economy metaphor, dramatic lighting, Netflix-style investigative mood, intelligent social systems vibe, no text inside image, no logos, 9:16 composition
+A tired professional woman sits alone in a narrow dark office at 11 PM, her smartphone glowing inches from her hand with unread message bubbles that are visible but not readable. She is not answering; her fingers hover above the screen like she is deciding whether to accept another unpaid task. Unsigned legal papers, a marked-up contract, a cold coffee cup, and a pen placed diagonally like a tiny barricade cover the desk. Outside the window, cold blue city lights make the room feel awake but emotionally dead. A single warm desk lamp cuts a sharp pool of light across the phone and papers, leaving her face half in shadow. Shot vertical 9:16 on a 35mm lens from slightly above shoulder level, shallow depth of field, tight enough for TikTok to read instantly. Psychological atmosphere: fatigue, quiet resentment, attention being stolen. Storytelling implication: one vague message has just become the last thing she can tolerate tonight. No text inside image. No logos.
 ```
 
 ---
 
-## 6. YouTube Package
+## 7. YouTube Package
 
 ### Shorts Script
 
-**Opening:**
-Чому люди ігнорують ваші повідомлення?
+**Opening:** Чому люди ігнорують ваші повідомлення? Неприємна відповідь: іноді проблема не в людях. Проблема в конструкції повідомлення.
 
-Неприємна відповідь: іноді проблема не в людях.
+**Main:** "Хотіла б уточнити щодо нашого питання" звучить культурно. Але адресат має згадати контекст, зрозуміти тему, здогадатися, що ви хочете, і вирішити, що робити. Ви передали людині роботу. Без інструкції. Без дедлайну. Без гонорару.
 
-Проблема в конструкції повідомлення.
+**Practical insight:** Пишіть за формулою: контекст + питання + дедлайн + наступний крок.
 
-**Main:**
-Є фраза, після якої відповідь часто помирає тихо:
+**Closing:** Сильна комунікація не змушує людей вгадувати. Вона ставить рамку.
 
-"Хотіла б уточнити щодо нашого питання".
-
-Це звучить культурно. Але адресат має згадати контекст, зрозуміти тему, здогадатися, що ви хочете, і вирішити, що робити.
-
-Тобто ви передали людині роботу. Без інструкції. Без дедлайну. Без гонорару. Романтика сучасної комунікації.
-
-**Practical insight:**
-Пишіть за формулою:
-
-контекст + питання + дедлайн + наступний крок.
-
-Приклад:
-
-"Надсилаю фінальну версію договору. Потрібне підтвердження до 17:00, щоб завтра подати документи. Чи погоджуєте текст?"
-
-**Closing:**
-Сильна комунікація не змушує людей вгадувати. Вона ставить рамку.
-
-**CTA:**
-Збережіть формулу і перевірте своє наступне повідомлення.
+**CTA:** Збережіть формулу і перевірте своє наступне повідомлення.
 
 ### Community Post
 
-Вас ігнорують не завжди через неповагу.
-
-Іноді ваше повідомлення просто незручне для відповіді.
-
-Немає контексту. Немає конкретного питання. Немає дедлайну. Немає наступного кроку.
-
-І система робить те, що система робить завжди: ховає незручне в "потім".
+Вас ігнорують не завжди через неповагу. Іноді ваше повідомлення просто незручне для відповіді: немає контексту, конкретного питання, дедлайну й наступного кроку. Система робить те, що система робить завжди: ховає незручне в "потім".
 
 Питання: яка фраза в повідомленнях вас найбільше дратує?
 
@@ -156,15 +108,15 @@ Cinematic realistic vertical image, late night office, smartphone glowing with u
 
 Чому вас ігнорують
 
-### Image Prompt
+### YouTube Thumbnail Prompt
 
 ```text
-Cinematic YouTube thumbnail image, realistic modern office at night, close-up of anxious professional with smartphone full of unread message bubbles without readable text, contract papers on desk, dramatic high contrast lighting, psychological pressure, investigative Netflix-style mood, social systems tension, no text inside image, no logos, 16:9 composition
+A wide 16:9 night-office frame shows a professional woman frozen at her desk, lit by the blue glow of a phone full of unread message bubbles, while a second empty chair across the desk suggests the absent person who created the confusion. On the desk: a contract with sticky notes, a calendar page with a circled deadline, a laptop open to a blank reply window, and a coffee cup pushed aside like a small surrender. Her face is turned toward the phone, not angry, more clinically exhausted. The background window shows a cold city skyline and faint reflections, making the office feel like an interrogation room for bad communication. Strong contrast lighting: cold phone glow from below, warm desk lamp from the side, deep shadows behind her. Camera: 50mm lens, eye-level, cinematic thumbnail framing with subject on left and negative space on right for optional external title overlay. Psychological atmosphere: the moment before silence becomes a decision. No text inside image. No logos.
 ```
 
 ---
 
-## 7. Facebook Package
+## 8. Facebook Package
 
 ### Long Post
 
@@ -176,13 +128,7 @@ Cinematic YouTube thumbnail image, realistic modern office at night, close-up of
 
 "Доброго дня, хотіла б уточнити щодо нашого питання".
 
-Якого питання?
-Що саме треба?
-До коли?
-Яка дія очікується?
-
-Ввічливо? Так.
-Корисно? Не дуже.
+Якого питання? Що саме треба? До коли? Яка дія очікується?
 
 Людина відкриває таке повідомлення і бачить не текст. Вона бачить задачу. Згадати контекст. Розібратись. Здогадатись. Прийняти рішення. Відповісти.
 
@@ -190,22 +136,9 @@ Cinematic YouTube thumbnail image, realistic modern office at night, close-up of
 
 У соціальних системах виграє не найввічливіший. Виграє той, хто економить увагу.
 
-Сильне повідомлення має чотири частини:
+Сильне повідомлення має чотири частини: контекст, конкретне питання, дедлайн, наступний крок.
 
-1. Контекст.
-2. Конкретне питання.
-3. Дедлайн.
-4. Наступний крок.
-
-Приклад:
-
-"Надсилаю фінальну версію договору. Потрібне підтвердження до 17:00, щоб завтра подати документи. Чи погоджуєте текст?"
-
-Це не сухість.
-
-Це повага до часу.
-
-І маленька профілактика цифрового кладовища, де лежать усі повідомлення в стилі "давайте якось обговоримо".
+Це не сухість. Це повага до часу. І маленька профілактика цифрового кладовища, де лежать усі повідомлення в стилі "давайте якось обговоримо".
 
 **CTA:** Перечитайте своє останнє важливе повідомлення. Там є чітка дія для адресата?
 
@@ -215,17 +148,15 @@ Cinematic YouTube thumbnail image, realistic modern office at night, close-up of
 
 Ваше повідомлення може бути просто незручним для відповіді.
 
-Без контексту. Без конкретного питання. Без дедлайну. Без наступного кроку.
-
-Формула сильного повідомлення проста:
-
-контекст + питання + дедлайн + наступний крок.
+Формула сильного повідомлення проста: контекст + питання + дедлайн + наступний крок.
 
 Ясність - це не грубість. Це спосіб не віддавати процес хаосу.
 
-### Image Concept
+### Facebook Visual Prompt
 
-Темний офіс. Телефон світиться непрочитаними повідомленнями. Поруч договір і ноутбук. Людина не відповідає, а дивиться у вікно. Атмосфера: не образа, а втома від чужого туману.
+```text
+A legal consultant sits at a wide wooden desk after a long workday, leaning back from her laptop while the phone keeps glowing beside a stack of documents. The scene is slower than a TikTok cover: the viewer can study the evidence. Symbolic details include three open folders with loose papers, a pen abandoned on top of an unsigned contract, a calendar with one date circled, and a row of message notifications on the phone that are visible as shapes but unreadable. Her expression is not dramatic panic; it is the quiet social exhaustion of being asked to solve someone else's unclear thinking. The office is modern but slightly claustrophobic, with glass walls reflecting her alone twice, suggesting duplicated labor. Lighting: warm desk lamp on documents, cold blue city light through the window, soft shadows stretching across the desk. Camera style: editorial 4:5 composition, 35mm lens, medium shot from the corner of the desk, shallow depth of field but enough detail to read the symbolic objects. Psychological atmosphere: polite chaos becoming administrative violence. No text inside image. No logos.
+```
 
 ### Discussion Question
 
@@ -233,39 +164,29 @@ Cinematic YouTube thumbnail image, realistic modern office at night, close-up of
 
 ---
 
-## 8. Instagram Package
+## 9. Instagram Package
 
 ### Carousel Structure
 
-**Slide 1:**
-Вас ігнорують не випадково.
+**Slide 1:** Вас ігнорують не випадково.
 
-**Slide 2:**
-Іноді ваше повідомлення виглядає як неоплачувана робота.
+**Slide 2:** Іноді ваше повідомлення виглядає як неоплачувана робота.
 
-**Slide 3:**
-"Хотіла б уточнити щодо нашого питання".
+**Slide 3:** "Хотіла б уточнити щодо нашого питання".
 
-**Slide 4:**
-Якого питання? Що треба? До коли? Що робити?
+**Slide 4:** Якого питання? Що треба? До коли? Що робити?
 
-**Slide 5:**
-Зайнята людина не розгадує ваш ребус. Вона відкладає його.
+**Slide 5:** Зайнята людина не розгадує ваш ребус. Вона відкладає його.
 
-**Slide 6:**
-Формула: контекст + питання + дедлайн + наступний крок.
+**Slide 6:** Формула: контекст + питання + дедлайн + наступний крок.
 
-**Slide 7:**
-Ясність - це не грубість. Це влада без крику.
+**Slide 7:** Ясність - це не грубість. Це влада без крику.
 
-**Slide 8:**
-Перевірте своє останнє важливе повідомлення. Там є дія для адресата?
+**Slide 8:** Перевірте своє останнє важливе повідомлення. Там є дія для адресата?
 
 ### Caption
 
-Нечітке повідомлення краде увагу.
-
-А увага - це валюта. Особливо в переговорах, юридичних процесах, продажах і будь-якій комунікації, де є дедлайн.
+Нечітке повідомлення краде увагу. А увага - це валюта. Особливо в переговорах, юридичних процесах, продажах і будь-якій комунікації, де є дедлайн.
 
 Пишіть так, щоб людині було легко відповісти.
 
@@ -277,15 +198,15 @@ Cinematic YouTube thumbnail image, realistic modern office at night, close-up of
 
 Вас ігнорують? Можливо, ваше повідомлення змушує людину працювати замість вас.
 
-### Image Prompt
+### Instagram Visual Prompt
 
 ```text
-Cinematic Instagram carousel cover image, realistic late evening desk scene, smartphone with unread messages but no readable text, legal documents, half-empty coffee cup, professional person in shadow, dramatic lighting, psychological tension, intelligent social systems atmosphere, no text inside image, no logos, 4:5 composition
+An Instagram carousel cover scene: a close, symbolic desk composition where a smartphone sits face-up beside a maze-like scatter of legal papers, sticky notes, and a half-written reply on a laptop. A professional woman's hand enters the frame from the edge but stops before touching the phone, creating the feeling of hesitation and refusal. The unread messages appear only as glowing abstract bubbles, not readable text. Symbolic details: tangled charging cable shaped like a small knot, a pen placed across the contract like a barrier, one sticky note folded over itself. Environment: quiet evening workspace, minimal but tense, designed to hold a clean cover crop. Lighting: warm lamp from top left, cold blue reflection from the phone, soft cinematic shadows. Camera: overhead 4:5 composition, 50mm look, shallow depth but crisp focal plane on phone and documents, strong negative space in upper third for later design overlay outside generated image. Psychological atmosphere: one vague message becoming a maze. No text inside image. No logos.
 ```
 
 ---
 
-## 9. Quotes Package
+## 10. Quotes Package
 
 1. Нечітке повідомлення - це чужа робота в красивій обгортці.
 2. Люди не ігнорують вас. Вони ігнорують хаос, який ви принесли.
@@ -300,7 +221,7 @@ Cinematic Instagram carousel cover image, realistic late evening desk scene, sma
 
 ---
 
-## 10. Comments Package
+## 11. Comments Package
 
 ### 5 Engagement Comments
 
@@ -320,28 +241,28 @@ Cinematic Instagram carousel cover image, realistic late evening desk scene, sma
 
 ---
 
-## 11. Visual Package
+## 12. Visual Package
 
-### 4:5 Image Prompt
+### TikTok Visual Prompt 9:16
 
 ```text
-Cinematic realistic 4:5 image, late night professional office, smartphone glowing with many unread message bubbles but no readable text, legal contract and laptop on desk, tired consultant looking away, dramatic desk lamp lighting, deep shadows, psychological tension, intelligent social systems vibe, Netflix-style investigative atmosphere, no text inside image, no logos
+A tired professional woman sits alone in a narrow dark office at 11 PM, her smartphone glowing inches from her hand with unread message bubbles that are visible but not readable. She is not answering; her fingers hover above the screen like she is deciding whether to accept another unpaid task. Unsigned legal papers, a marked-up contract, a cold coffee cup, and a pen placed diagonally like a tiny barricade cover the desk. Outside the window, cold blue city lights make the room feel awake but emotionally dead. A single warm desk lamp cuts a sharp pool of light across the phone and papers, leaving her face half in shadow. Shot vertical 9:16 on a 35mm lens from slightly above shoulder level, shallow depth of field, tight enough for TikTok to read instantly. Psychological atmosphere: fatigue, quiet resentment, attention being stolen. Storytelling implication: one vague message has just become the last thing she can tolerate tonight. No text inside image. No logos.
 ```
 
-### 9:16 Image Prompt
+### Instagram Visual Prompt 4:5
 
 ```text
-Cinematic realistic 9:16 vertical cover, close-up of hand hovering above smartphone with unread message bubbles but no readable text, legal papers in background, tense hesitation, dramatic lighting, attention economy metaphor, dark Netflix-style mood, no text inside image, no logos, shallow depth of field
+An Instagram carousel cover scene: a close, symbolic desk composition where a smartphone sits face-up beside a maze-like scatter of legal papers, sticky notes, and a half-written reply on a laptop. A professional woman's hand enters the frame from the edge but stops before touching the phone, creating the feeling of hesitation and refusal. The unread messages appear only as glowing abstract bubbles, not readable text. Symbolic details: tangled charging cable shaped like a small knot, a pen placed across the contract like a barrier, one sticky note folded over itself. Environment: quiet evening workspace, minimal but tense, designed to hold a clean cover crop. Lighting: warm lamp from top left, cold blue reflection from the phone, soft cinematic shadows. Camera: overhead 4:5 composition, 50mm look, shallow depth but crisp focal plane on phone and documents, strong negative space in upper third for later design overlay outside generated image. Psychological atmosphere: one vague message becoming a maze. No text inside image. No logos.
 ```
 
-### 1:1 Image Prompt
+### Facebook Visual Prompt 4:5
 
 ```text
-Cinematic realistic square image, modern desk with smartphone, contract, pen, and cold coffee, unread messages glowing without readable text, empty chair slightly pushed back, unresolved communication, psychological tension, dramatic shadows, intelligent atmosphere, no text inside image, no logos
+A legal consultant sits at a wide wooden desk after a long workday, leaning back from her laptop while the phone keeps glowing beside a stack of documents. The scene is slower than a TikTok cover: the viewer can study the evidence. Symbolic details include three open folders with loose papers, a pen abandoned on top of an unsigned contract, a calendar with one date circled, and a row of message notifications on the phone that are visible as shapes but unreadable. Her expression is not dramatic panic; it is the quiet social exhaustion of being asked to solve someone else's unclear thinking. The office is modern but slightly claustrophobic, with glass walls reflecting her alone twice, suggesting duplicated labor. Lighting: warm desk lamp on documents, cold blue city light through the window, soft shadows stretching across the desk. Camera style: editorial 4:5 composition, 35mm lens, medium shot from the corner of the desk, shallow depth of field but enough detail to read the symbolic objects. Psychological atmosphere: polite chaos becoming administrative violence. No text inside image. No logos.
 ```
 
-### YouTube Thumbnail Prompt
+### YouTube Thumbnail Prompt 16:9
 
 ```text
-Cinematic realistic 16:9 YouTube thumbnail image, professional person staring at glowing smartphone in dark office, unread messages visible as abstract bubbles without readable text, legal documents scattered on desk, high contrast dramatic lighting, investigative Netflix-style tension, social systems pressure, no text inside image, no logos
+A wide 16:9 night-office frame shows a professional woman frozen at her desk, lit by the blue glow of a phone full of unread message bubbles, while a second empty chair across the desk suggests the absent person who created the confusion. On the desk: a contract with sticky notes, a calendar page with a circled deadline, a laptop open to a blank reply window, and a coffee cup pushed aside like a small surrender. Her face is turned toward the phone, not angry, more clinically exhausted. The background window shows a cold city skyline and faint reflections, making the office feel like an interrogation room for bad communication. Strong contrast lighting: cold phone glow from below, warm desk lamp from the side, deep shadows behind her. Camera: 50mm lens, eye-level, cinematic thumbnail framing with subject on left and negative space on right for optional external title overlay. Psychological atmosphere: the moment before silence becomes a decision. No text inside image. No logos.
 ```
