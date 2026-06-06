@@ -2,7 +2,7 @@
 
 ---
 
-## Core Idea
+## 1. Core Idea
 
 Компетентних людей часто не підвищують не тому, що вони слабкі.
 
@@ -14,29 +14,7 @@
 
 ---
 
-## Psychological Framing
-
-Компетентна людина часто має небезпечну ілюзію: "моя робота говорить сама за себе".
-
-Ні.
-
-Робота не говорить. Робота лежить у системі як доказ без адвоката.
-
-Підвищення - це не тільки оцінка навичок. Це соціальне рішення. Воно проходить через видимість, довіру, політичну зручність, репутацію, страх керівника і здатність людини виглядати як наступний рівень.
-
-Компетентні люди часто:
-
-- закривають проблеми мовчки;
-- не називають свій внесок;
-- рятують команду без свідків;
-- чекають справедливості від системи, яка ледве пам'ятає, де лежить стратегія на квартал;
-- вважають самопрезентацію чимось брудним.
-
-Парадокс: що більше ви непомітно тримаєте систему, то легше системі вважати, що вона тримається сама.
-
----
-
-## Main Thesis
+## 2. Main Thesis
 
 Підвищують не просто компетентних.
 
@@ -44,7 +22,7 @@
 
 ---
 
-## Conflict / Tension
+## 3. Conflict / Tension
 
 Ви думаєте: "Я добре працюю, мене мають помітити".
 
@@ -58,7 +36,7 @@
 
 ---
 
-## Target Audience
+## 4. Target Audience
 
 Компетентні спеціалісти, юристи, менеджери, консультанти, експерти, фахівці в корпораціях і командах, які багато тягнуть, але залишаються "надійними виконавцями", а не кандидатами на більшу роль.
 
@@ -70,7 +48,21 @@
 
 ---
 
-## Viral Hooks
+## 5. Psychological Framing
+
+Компетентна людина часто має небезпечну ілюзію: "моя робота говорить сама за себе".
+
+Ні.
+
+Робота не говорить. Робота лежить у системі як доказ без адвоката.
+
+Підвищення - це не тільки оцінка навичок. Це соціальне рішення. Воно проходить через видимість, довіру, політичну зручність, репутацію, страх керівника і здатність людини виглядати як наступний рівень.
+
+Парадокс: що більше ви непомітно тримаєте систему, то легше системі вважати, що вона тримається сама.
+
+---
+
+## 6. Viral Hooks
 
 1. Компетентних людей часто не підвищують, бо вони занадто добре ховають власну цінність.
 2. Ваша робота не говорить сама за себе. Вона мовчить у таблиці, поки хтось інший робить презентацію.
@@ -83,7 +75,7 @@
 
 ---
 
-## TikTok Package
+## 7. TikTok Package
 
 ### Hook
 
@@ -93,47 +85,19 @@
 
 ### Short Video Script
 
-**Кадр 1:**
-Вас можуть не підвищувати саме тому, що ви дуже добре працюєте.
+**Кадр 1:** Вас можуть не підвищувати саме тому, що ви дуже добре працюєте. Темний жарт системи. Але смішно тільки HR-презентаціям.
 
-Темний жарт системи. Але смішно тільки HR-презентаціям.
+**Кадр 2:** Ви мовчки закриваєте хаос. Виправляєте помилки. Рятуєте дедлайни. Пояснюєте клієнтам те, що команда мала зрозуміти ще в понеділок.
 
-**Кадр 2:**
-Ви мовчки закриваєте хаос.
+**Кадр 3:** А потім на підвищення йде людина, яка зробила три слайди про "оптимізацію процесів". Тих самих процесів, які ви роками тримали руками.
 
-Виправляєте помилки.
+**Кадр 4:** Проблема не лише в компетентності. Проблема у видимості.
 
-Рятуєте дедлайни.
+**Кадр 5:** Формула: називайте внесок, показуйте результат, говоріть про вплив, просіть наступний рівень до того, як втомитесь ненавидіти всіх мовчки.
 
-Пояснюєте клієнтам те, що команда мала зрозуміти ще в понеділок.
+**Кадр 6:** Компетентність без видимості - це не скромність. Це кар'єрний камуфляж.
 
-**Кадр 3:**
-А потім на підвищення йде людина, яка зробила три слайди про "оптимізацію процесів".
-
-Тих самих процесів, які ви роками тримали руками.
-
-**Кадр 4:**
-Проблема не лише в компетентності.
-
-Проблема у видимості.
-
-Система просуває не завжди найкращих. Вона просуває тих, кого бачить у наступній ролі.
-
-**Кадр 5:**
-Формула:
-
-1. Називайте свій внесок.
-2. Показуйте результат у цифрах або наслідках.
-3. Говоріть про вплив, а не тільки про задачі.
-4. Просіть наступний рівень до того, як втомитесь ненавидіти всіх мовчки.
-
-**Кадр 6:**
-Компетентність без видимості - це не скромність.
-
-Це кар'єрний камуфляж.
-
-**CTA:**
-Подивіться на свою роботу цього місяця. Що з вашого внеску реально бачить керівництво?
+**CTA:** Подивіться на свою роботу цього місяця. Що з вашого внеску реально бачить керівництво?
 
 ### Cover Text
 
@@ -143,60 +107,27 @@
 
 Якісна робота не завжди перетворюється на підвищення. Її ще треба зробити видимою. Неприємно? Так. Працює? Теж так.
 
-### TikTok Image Prompt
+### TikTok Visual Prompt
 
 ```text
-Cinematic realistic vertical image, competent professional alone in dim office late at night fixing a complex problem on laptop, glass meeting room in background with other people presenting slides, dramatic contrast lighting, psychological tension, invisible labor, social systems power dynamics, Netflix-style corporate thriller mood, no text inside image, no logos, 9:16 composition
+A competent mid-career professional stands alone in a dim open-plan office at night, sleeves rolled up, laptop open with a solved crisis on screen shown only as abstract dashboards and files, while behind them a bright glass meeting room glows like another world. Inside that glass room, blurred silhouettes applaud someone giving a presentation, but the main character is outside the room holding a stack of corrected reports and a marker-stained notebook. Emotional tension: the person has saved the system, but the system is celebrating someone else. Symbolic details: a trash bin filled with crumpled drafts, a small desk lamp lighting only the worker's hands, an elevator door in the far background closed and dark. Lighting: cold office fluorescents fading into warm golden meeting-room light, creating a visible class border between labor and recognition. Camera style: vertical 9:16, low slightly tilted angle, 35mm lens, shallow depth of field, strong foreground character silhouette. Psychological atmosphere: invisible labor, quiet betrayal, corporate dark humor. Storytelling implication: the promotion meeting is happening without the person who made it possible. No text inside image. No logos.
 ```
 
 ---
 
-## YouTube Shorts Package
+## 8. YouTube Shorts Package
 
 ### Shorts Script
 
-**Opening:**
-Чому компетентних людей не підвищують?
+**Opening:** Чому компетентних людей не підвищують? Бо компетентність - це ще не кар'єрна стратегія. Неприємно. Зате чесно.
 
-Бо компетентність - це ще не кар'єрна стратегія.
+**Main:** Багато сильних фахівців живуть із дитячою вірою в дорослу систему: якщо я добре працюю, мене помітять. Система тим часом дивиться, хто говорить мовою результату, хто бере простір і хто виглядає як наступний рівень.
 
-Неприємно. Зате чесно.
+**Practical Insight:** Якщо хочете рости, показуйте не задачі, а вплив: що ви змінили, який ризик зняли, скільки часу зекономили, яку більшу роль уже фактично виконуєте.
 
-**Main:**
-Багато сильних фахівців живуть із дитячою вірою в дорослу систему: якщо я добре працюю, мене помітять.
+**Closing:** Робота не говорить сама за себе. Їй потрібен адвокат. І цим адвокатом доведеться бути вам.
 
-Система, тим часом, зайнята іншими справами.
-
-Вона дивиться, хто говорить мовою результату. Хто бере простір. Хто виглядає як наступний рівень. Хто не просто робить, а пояснює, чому це важливо.
-
-Компетентна людина часто мовчить.
-
-Бо "незручно хвалитися".
-
-Бо "і так видно".
-
-Бо "головне - якість".
-
-А потім підвищують того, хто вміє назвати свій внесок. Іноді навіть той внесок, який ви допомогли йому зробити. Маленький корпоративний детектив без щасливого фіналу.
-
-**Practical Insight:**
-Якщо хочете рости, показуйте не задачі, а вплив:
-
-- що ви змінили;
-- який ризик зняли;
-- скільки часу зекономили;
-- де взяли відповідальність;
-- яку більшу роль уже фактично виконуєте.
-
-**Closing:**
-Робота не говорить сама за себе.
-
-Їй потрібен адвокат.
-
-І цим адвокатом доведеться бути вам.
-
-**CTA:**
-Збережіть і випишіть три результати, які вам час назвати вголос.
+**CTA:** Збережіть і випишіть три результати, які вам час назвати вголос.
 
 ### Community Post
 
@@ -214,15 +145,15 @@ Cinematic realistic vertical image, competent professional alone in dim office l
 
 Компетентний. Невидимий.
 
-### YouTube Image Prompt
+### YouTube Thumbnail Prompt
 
 ```text
-Cinematic 16:9 YouTube thumbnail image, realistic corporate office at night, exhausted competent professional surrounded by reports and laptop, distant glass conference room with silhouettes applauding another presenter, dramatic lighting, invisible labor, psychological tension, social hierarchy, Netflix-style investigative corporate drama, no text inside image, no logos
+A 16:9 corporate office scene split by a glass wall: in the foreground, a competent professional sits in shadow at a cluttered desk with corrected reports, a laptop, a cold coffee, and a small pile of crisis notes; in the background behind the glass, a brightly lit leadership meeting applauds a confident presenter pointing at a blank-looking slide deck. The foreground character is turned slightly toward the meeting, not shocked, just clinically tired, as if this has happened before. Symbolic details: the worker's desk lamp is the only warm light in the foreground, a closed promotion folder sits just out of reach, and the glass wall reflects the worker faintly over the applauding room like a ghost in the system. Lighting: high contrast between shadowed labor and golden recognition, strong rim light along the glass edge. Camera style: cinematic wide 16:9 thumbnail, 35mm lens, clear subject separation, deep enough focus to read both worlds. Psychological atmosphere: competence without witnesses, institutional amnesia, dark corporate irony. Storytelling implication: the person who fixed the mess is watching the person who narrated it get rewarded. No text inside image. No logos.
 ```
 
 ---
 
-## Facebook Package
+## 9. Facebook Package
 
 ### Long Post
 
@@ -232,49 +163,21 @@ Cinematic 16:9 YouTube thumbnail image, realistic corporate office at night, exh
 
 А тому, що вони занадто добре навчилися бути корисними там, де вже стоять.
 
-Це неприємна кар'єрна пастка.
-
 Ви закриваєте складні задачі. Рятуєте дедлайни. Підчищаєте чужі помилки. Пояснюєте клієнтам, партнерам або керівництву те, що мало бути зрозуміло ще до старту процесу.
 
 І робите це тихо.
 
-Бо ви професійні.
-
-Бо "не треба себе продавати".
-
 Бо "робота говорить сама за себе".
 
-Ні.
+Ні. Робота не говорить сама за себе. Вона лежить у системі як доказ без адвоката.
 
-Робота не говорить сама за себе. Вона лежить у системі як доказ без адвоката.
+А в цей час хтось інший робить презентацію про "стратегічний внесок". Іноді на основі хаосу, який ви роками носили на спині. Дуже елегантно. Майже кримінально, але в корпоративному шрифті.
 
-А в цей час хтось інший робить презентацію про "стратегічний внесок", "оптимізацію" і "новий підхід". Іноді на основі хаосу, який ви роками носили на спині. Дуже елегантно. Майже кримінально, але в корпоративному шрифті.
+Підвищення - це не тільки про компетентність. Це про видимість, довіру, політичну зручність і те, чи може система уявити вас на наступному рівні.
 
-Підвищення - це не тільки про компетентність.
+Практично: називайте внесок, фіксуйте результати, говоріть про вплив, просіть наступний рівень до того, як ваша лояльність стане тихою ненавистю.
 
-Це про видимість.
-
-Про довіру.
-
-Про політичну зручність.
-
-Про те, чи може система уявити вас на наступному рівні.
-
-І тут виникає парадокс: що краще ви мовчки тримаєте поточну роль, то менше система хоче вас із неї рухати.
-
-Бо навіщо підвищувати людину, яка і так героїчно ремонтує все в підвалі?
-
-Практично:
-
-1. Називайте свій внесок.
-2. Фіксуйте результати.
-3. Говоріть не "я зробив задачі", а "я зняв ризик / зекономив час / втримав клієнта / створив процес".
-4. Просіть про наступний рівень до того, як ваша лояльність стане тихою ненавистю.
-5. Будуйте видимість не як понти, а як доказову базу.
-
-Компетентність без видимості - це не скромність.
-
-Це кар'єрний камуфляж.
+Компетентність без видимості - це не скромність. Це кар'єрний камуфляж.
 
 **CTA:** Подумайте: який ваш внесок цього місяця бачать тільки ви? Саме з нього варто почати розмову.
 
@@ -286,11 +189,13 @@ Cinematic 16:9 YouTube thumbnail image, realistic corporate office at night, exh
 
 Якщо ви мовчки рятуєте дедлайни, виправляєте чужі помилки й тримаєте процеси, система може вирішити, що процеси просто працюють.
 
-Робота не говорить сама за себе.
+Робота не говорить сама за себе. Їй потрібен адвокат. І цим адвокатом маєте бути ви.
 
-Їй потрібен адвокат.
+### Facebook Visual Prompt
 
-І, неприємний поворот, цим адвокатом маєте бути ви.
+```text
+A quiet editorial 4:5 scene inside an almost empty corporate office after hours: a competent professional sits at a desk surrounded by evidence of invisible labor - corrected contracts, process maps with handwritten fixes, a laptop showing abstract completed tasks, and a whiteboard in the background filled with crossed-out problems. The character's jacket is hanging on the chair, sleeves rolled up, posture exhausted but controlled. Through a glass wall in the distance, a cleaner or security light passes by, making the office feel abandoned by the people who benefit from the work. Symbolic details: a sealed envelope labeled only by shape, not readable text, sits near the edge of the desk like an unopened career conversation; a presentation clicker lies unused beside the reports. Lighting: one warm desk lamp over the solved work, cold overhead lights off, blue city light cutting across the floor. Camera style: 4:5 editorial portrait, 35mm lens, medium-wide frame with enough environmental detail for a Facebook post. Psychological atmosphere: being too useful to move, competence becoming a quiet trap. Storytelling implication: the crisis is solved, but no witness remains. No text inside image. No logos.
+```
 
 ### Facebook CTA
 
@@ -298,36 +203,27 @@ Cinematic 16:9 YouTube thumbnail image, realistic corporate office at night, exh
 
 ---
 
-## Instagram Package
+## 10. Instagram Package
 
 ### Carousel Structure
 
-**Slide 1:**
-Чому компетентних не підвищують
+**Slide 1:** Чому компетентних не підвищують
 
-**Slide 2:**
-Бо якісна робота не завжди видима.
+**Slide 2:** Бо якісна робота не завжди видима.
 
-**Slide 3:**
-Ви рятуєте дедлайни. Закриваєте хаос. Виправляєте чужі помилки.
+**Slide 3:** Ви рятуєте дедлайни. Закриваєте хаос. Виправляєте чужі помилки.
 
-**Slide 4:**
-А система бачить: "все нормально працює".
+**Slide 4:** А система бачить: "все нормально працює".
 
-**Slide 5:**
-Парадокс: що краще ви тримаєте поточну роль, то зручніше вас там залишити.
+**Slide 5:** Парадокс: що краще ви тримаєте поточну роль, то зручніше вас там залишити.
 
-**Slide 6:**
-Підвищують не просто компетентних. Підвищують видимих, зрозумілих і політично безпечних.
+**Slide 6:** Підвищують не просто компетентних. Підвищують видимих, зрозумілих і політично безпечних.
 
-**Slide 7:**
-Формула: внесок + результат + вплив + наступний рівень.
+**Slide 7:** Формула: внесок + результат + вплив + наступний рівень.
 
-**Slide 8:**
-Компетентність без видимості - це кар'єрний камуфляж.
+**Slide 8:** Компетентність без видимості - це кар'єрний камуфляж.
 
-**Slide 9:**
-Що з вашого внеску бачить керівництво?
+**Slide 9:** Що з вашого внеску бачить керівництво?
 
 ### Caption
 
@@ -345,43 +241,43 @@ Cinematic 16:9 YouTube thumbnail image, realistic corporate office at night, exh
 
 Вас не підвищують, бо ви слабкі? Або тому, що ви занадто зручно сильні на своєму місці?
 
-### Instagram Image Prompt
+### Instagram Visual Prompt
 
 ```text
-Cinematic realistic 4:5 image, professional standing in shadow outside bright glass meeting room where others are presenting, laptop and documents in hand, psychological tension, invisible competence, corporate power dynamics, dramatic lighting, intelligent atmosphere, Netflix-style workplace drama, no text inside image, no logos
+An Instagram carousel cover scene: a professional stands half in shadow outside a bright glass meeting room, holding a laptop and a neat stack of corrected documents against their chest. Inside the glass room, blurred colleagues gesture toward a presentation, but the central character is separated by the transparent wall like evidence that cannot speak. Emotional tension: calm humiliation, competence locked outside recognition. Symbolic details: the character's reflection overlaps with the meeting-room silhouettes, a closed elevator behind them suggests stalled upward mobility, and one loose page has slipped from the stack onto the floor. Environment: polished corporate hallway, clean lines, glass, marble, too much silence. Lighting: warm gold from the meeting room, cool blue hallway shadows on the character, thin rim light along the glass border. Camera style: 4:5 composition for carousel cover, eye-level 35mm lens, shallow depth of field, strong negative space in the upper left for later design overlay outside generated image. Psychological atmosphere: visible system, invisible worker. No text inside image. No logos.
 ```
 
 ---
 
-## Image Prompts
+## 11. Image Prompts
 
-### 4:5 Feed Image
+### TikTok Visual Prompt 9:16
 
 ```text
-Cinematic realistic 4:5 portrait, competent professional late at night in office surrounded by solved paperwork and laptop screens, distant conference room with blurred leadership meeting, dramatic contrast lighting, invisible labor, psychological tension, intelligent corporate social systems vibe, no text inside image, no logos
+A competent mid-career professional stands alone in a dim open-plan office at night, sleeves rolled up, laptop open with a solved crisis on screen shown only as abstract dashboards and files, while behind them a bright glass meeting room glows like another world. Inside that glass room, blurred silhouettes applaud someone giving a presentation, but the main character is outside the room holding a stack of corrected reports and a marker-stained notebook. Emotional tension: the person has saved the system, but the system is celebrating someone else. Symbolic details: a trash bin filled with crumpled drafts, a small desk lamp lighting only the worker's hands, an elevator door in the far background closed and dark. Lighting: cold office fluorescents fading into warm golden meeting-room light, creating a visible class border between labor and recognition. Camera style: vertical 9:16, low slightly tilted angle, 35mm lens, shallow depth of field, strong foreground character silhouette. Psychological atmosphere: invisible labor, quiet betrayal, corporate dark humor. Storytelling implication: the promotion meeting is happening without the person who made it possible. No text inside image. No logos.
 ```
 
-### 9:16 TikTok / Reels Cover
+### Instagram Visual Prompt 4:5
 
 ```text
-Cinematic realistic 9:16 vertical image, exhausted professional in dim office fixing urgent problem while bright elevator doors open behind them with other silhouettes entering, social mobility metaphor, dramatic lighting, psychological tension, Netflix-style career drama, no text inside image, no logos
+An Instagram carousel cover scene: a professional stands half in shadow outside a bright glass meeting room, holding a laptop and a neat stack of corrected documents against their chest. Inside the glass room, blurred colleagues gesture toward a presentation, but the central character is separated by the transparent wall like evidence that cannot speak. Emotional tension: calm humiliation, competence locked outside recognition. Symbolic details: the character's reflection overlaps with the meeting-room silhouettes, a closed elevator behind them suggests stalled upward mobility, and one loose page has slipped from the stack onto the floor. Environment: polished corporate hallway, clean lines, glass, marble, too much silence. Lighting: warm gold from the meeting room, cool blue hallway shadows on the character, thin rim light along the glass border. Camera style: 4:5 composition for carousel cover, eye-level 35mm lens, shallow depth of field, strong negative space in the upper left for later design overlay outside generated image. Psychological atmosphere: visible system, invisible worker. No text inside image. No logos.
 ```
 
-### 1:1 Carousel Cover
+### Facebook Visual Prompt 4:5
 
 ```text
-Cinematic realistic square image, empty office chair under spotlight, stack of completed reports on desk, glass wall reflection showing meeting happening elsewhere, quiet tension, unseen competence, social systems atmosphere, dramatic lighting, no text inside image, no logos
+A quiet editorial 4:5 scene inside an almost empty corporate office after hours: a competent professional sits at a desk surrounded by evidence of invisible labor - corrected contracts, process maps with handwritten fixes, a laptop showing abstract completed tasks, and a whiteboard in the background filled with crossed-out problems. The character's jacket is hanging on the chair, sleeves rolled up, posture exhausted but controlled. Through a glass wall in the distance, a cleaner or security light passes by, making the office feel abandoned by the people who benefit from the work. Symbolic details: a sealed envelope labeled only by shape, not readable text, sits near the edge of the desk like an unopened career conversation; a presentation clicker lies unused beside the reports. Lighting: one warm desk lamp over the solved work, cold overhead lights off, blue city light cutting across the floor. Camera style: 4:5 editorial portrait, 35mm lens, medium-wide frame with enough environmental detail for a Facebook post. Psychological atmosphere: being too useful to move, competence becoming a quiet trap. Storytelling implication: the crisis is solved, but no witness remains. No text inside image. No logos.
 ```
 
-### YouTube Thumbnail
+### YouTube Thumbnail Prompt 16:9
 
 ```text
-Cinematic realistic 16:9 thumbnail, split-depth corporate office scene, foreground competent professional in shadow with laptop and documents, background leadership applauding another person in glass room, dramatic high contrast lighting, psychological tension, invisible work, no text inside image, no logos
+A 16:9 corporate office scene split by a glass wall: in the foreground, a competent professional sits in shadow at a cluttered desk with corrected reports, a laptop, a cold coffee, and a small pile of crisis notes; in the background behind the glass, a brightly lit leadership meeting applauds a confident presenter pointing at a blank-looking slide deck. The foreground character is turned slightly toward the meeting, not shocked, just clinically tired, as if this has happened before. Symbolic details: the worker's desk lamp is the only warm light in the foreground, a closed promotion folder sits just out of reach, and the glass wall reflects the worker faintly over the applauding room like a ghost in the system. Lighting: high contrast between shadowed labor and golden recognition, strong rim light along the glass edge. Camera style: cinematic wide 16:9 thumbnail, 35mm lens, clear subject separation, deep enough focus to read both worlds. Psychological atmosphere: competence without witnesses, institutional amnesia, dark corporate irony. Storytelling implication: the person who fixed the mess is watching the person who narrated it get rewarded. No text inside image. No logos.
 ```
 
 ---
 
-## Comments Package
+## 12. Comments Package
 
 ### 5 Engagement Comments
 
@@ -401,7 +297,7 @@ Cinematic realistic 16:9 thumbnail, split-depth corporate office scene, foregrou
 
 ---
 
-## CTA Bank
+## 13. CTA Bank
 
 1. Випишіть три результати, які вам час назвати вголос.
 2. Перевірте: ваш внесок цього місяця видно комусь, крім вас?
